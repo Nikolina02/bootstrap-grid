@@ -5,12 +5,12 @@ td{background-color: aqua
         width: 100%;
         text-align: center;
         padding: 10px;
-        border: 1px solid white;
+        border: 1px solid wheat;
         border-collapse: collapse;
     }
     td{
         padding: 10px;
-        border: 2px solid wheat;
+        border: 2px solid rgb(150, 4, 4);
         border-collapse: collapse;
     }
     .height{height: 50px;}
