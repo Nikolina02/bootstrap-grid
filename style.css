@@ -1,5 +1,9 @@
-td{background-color: red
-    container{text-align:center};}
+.boja{
+    background-color: red
+}
+    container{
+        text-align:center
+};
 
     .tabel{
         width: 100%;
@@ -13,4 +17,4 @@ td{background-color: red
         border: 2px solid rgb(150, 4, 4);
         border-collapse: collapse;
     }
-    .height{height: 50px;}
+    
